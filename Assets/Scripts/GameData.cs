@@ -1,7 +1,7 @@
 using System;
 
 [Serializable]
-public class GameData
+public struct ItemData
 {
     public int Id;
     public string Title;
