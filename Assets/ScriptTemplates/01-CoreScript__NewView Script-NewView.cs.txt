@@ -1,0 +1,12 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+
+namespace Zoolana.UI{
+
+	public class #SCRIPTNAME# : View 
+	{
+		#NOTRIM#
+	}
+
+}
+
