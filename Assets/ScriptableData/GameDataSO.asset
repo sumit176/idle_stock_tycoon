@@ -14,27 +14,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventories:
   - Id: 1
-    Title: Example
+    Title: TATA Power
     Level: 0
     MaxLevel: 0
     Cost: 10
-  - Id: 1
-    Title: Example
+    GenRate: 0
+    GenTime: 1
+  - Id: 2
+    Title: TATA STEEL
     Level: 0
     MaxLevel: 0
-    Cost: 10
-  - Id: 1
-    Title: Example
+    Cost: 1500
+    GenRate: 0
+    GenTime: 1
+  - Id: 3
+    Title: TATA CONSUMER
     Level: 0
     MaxLevel: 0
-    Cost: 10
-  - Id: 1
-    Title: Example
+    Cost: 15000
+    GenRate: 0
+    GenTime: 1
+  - Id: 4
+    Title: ADANI PORT
     Level: 0
     MaxLevel: 0
-    Cost: 10
-  - Id: 1
-    Title: Example
+    Cost: 100000
+    GenRate: 0
+    GenTime: 1
+  - Id: 5
+    Title: IRCTC
     Level: 0
     MaxLevel: 0
-    Cost: 10
+    Cost: 1500000
+    GenRate: 0
+    GenTime: 1

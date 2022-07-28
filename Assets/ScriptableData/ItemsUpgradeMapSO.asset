@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89ea39ae376d4e62a375324254bdfaf, type: 3}
+  m_Name: ItemsUpgradeMapSO
+  m_EditorClassIdentifier: 
+  upgradeList:
+  - {fileID: 11400000, guid: e9663e9d29f314bbdb7de79d7dbd3984, type: 2}
+  - {fileID: 11400000, guid: c852740d2b32c456d8157a19ac00fa93, type: 2}
+  - {fileID: 11400000, guid: 7c67f9a9dc8f140678270e9fcea80796, type: 2}
+  - {fileID: 11400000, guid: 0a3a5450c4d7b49c49d7d74a1b6a2fdc, type: 2}
+  - {fileID: 11400000, guid: 85bec3276520d4d70a6d5830a204397c, type: 2}

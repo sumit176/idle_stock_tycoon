@@ -6,15 +6,15 @@ using UnityEngine.UIElements;
 
 public class UIMainGameView : View
 {
-    [SerializeField] private GameDataSO gameData;
     [SerializeField] private Transform parent;
     [SerializeField] private GameObject prefabTemplate;
 
     public override void Show()
     {
         base.Show();
+        var items = data["data"];
 
-        foreach (var item in gameData.Items)
+        foreach (var item in (List<ItemData>)items)
         {
             GameObject gObj = Instantiate(prefabTemplate, parent);
             UICard card = new UICard(gObj.transform, item);

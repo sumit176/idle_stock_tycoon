@@ -12,4 +12,260 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dc3ca1824c404c528061b00df6457bd, type: 3}
   m_Name: 1_ItemDataUpgrades
   m_EditorClassIdentifier: 
-  dataUpgrades: []
+  dataUpgrades:
+  - Level: 1
+    Cost: 15
+    GenerationIncreased: 11
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 2
+    Cost: 22
+    GenerationIncreased: 12
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 3
+    Cost: 33
+    GenerationIncreased: 13
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 4
+    Cost: 49
+    GenerationIncreased: 14
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 5
+    Cost: 73
+    GenerationIncreased: 15
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 6
+    Cost: 109
+    GenerationIncreased: 16
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 7
+    Cost: 163
+    GenerationIncreased: 17
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 8
+    Cost: 244
+    GenerationIncreased: 18
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 9
+    Cost: 366
+    GenerationIncreased: 19
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 10
+    Cost: 549
+    GenerationIncreased: 20
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 11
+    Cost: 823
+    GenerationIncreased: 22
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 12
+    Cost: 1234
+    GenerationIncreased: 24
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 13
+    Cost: 1851
+    GenerationIncreased: 26
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 14
+    Cost: 2776
+    GenerationIncreased: 28
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 15
+    Cost: 4164
+    GenerationIncreased: 30
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 16
+    Cost: 6246
+    GenerationIncreased: 33
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 17
+    Cost: 9369
+    GenerationIncreased: 36
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 18
+    Cost: 14053
+    GenerationIncreased: 39
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 19
+    Cost: 21079
+    GenerationIncreased: 42
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 20
+    Cost: 31618
+    GenerationIncreased: 46
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 21
+    Cost: 47427
+    GenerationIncreased: 50
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 22
+    Cost: 71140
+    GenerationIncreased: 55
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 23
+    Cost: 106710
+    GenerationIncreased: 60
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 24
+    Cost: 160065
+    GenerationIncreased: 66
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 25
+    Cost: 240097
+    GenerationIncreased: 72
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 26
+    Cost: 360145
+    GenerationIncreased: 79
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 27
+    Cost: 540217
+    GenerationIncreased: 86
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 28
+    Cost: 810325
+    GenerationIncreased: 94
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 29
+    Cost: 1215487
+    GenerationIncreased: 103
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 30
+    Cost: 1823230
+    GenerationIncreased: 113
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 31
+    Cost: 2734845
+    GenerationIncreased: 124
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 32
+    Cost: 4102267
+    GenerationIncreased: 136
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 33
+    Cost: 6153400
+    GenerationIncreased: 149
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 34
+    Cost: 9230100
+    GenerationIncreased: 163
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 35
+    Cost: 13845150
+    GenerationIncreased: 179
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 36
+    Cost: 20767725
+    GenerationIncreased: 196
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 37
+    Cost: 31151587
+    GenerationIncreased: 215
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 38
+    Cost: 46727380
+    GenerationIncreased: 236
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 39
+    Cost: 70091070
+    GenerationIncreased: 259
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 40
+    Cost: 105136605
+    GenerationIncreased: 284
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 41
+    Cost: 157704907
+    GenerationIncreased: 312
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 42
+    Cost: 236557360
+    GenerationIncreased: 343
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 43
+    Cost: 354836040
+    GenerationIncreased: 377
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 44
+    Cost: 532254060
+    GenerationIncreased: 414
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 45
+    Cost: 798381090
+    GenerationIncreased: 455
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 46
+    Cost: 1197571635
+    GenerationIncreased: 500
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 47
+    Cost: 1796357452
+    GenerationIncreased: 550
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 48
+    Cost: 2694536178
+    GenerationIncreased: 605
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 49
+    Cost: 4041804267
+    GenerationIncreased: 665
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 50
+    Cost: 6062706400
+    GenerationIncreased: 731
+    SellValue: 0
+    GenerationTime: 1.5
+  BaseGeneration: 10
+  generationIncrease: 10
+  generationTimeIncrease: 0
+  costIncrease: 50
+  BaseCost: 100
+  MaxLevel: 50

@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dc3ca1824c404c528061b00df6457bd, type: 3}
+  m_Name: 4_ItemDataUpgrades
+  m_EditorClassIdentifier: 
+  dataUpgrades:
+  - Level: 1
+    Cost: 135000
+    GenerationIncreased: 11000
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 2
+    Cost: 182250
+    GenerationIncreased: 12100
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 3
+    Cost: 246037
+    GenerationIncreased: 13310
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 4
+    Cost: 332149
+    GenerationIncreased: 14641
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 5
+    Cost: 448401
+    GenerationIncreased: 16105
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 6
+    Cost: 605341
+    GenerationIncreased: 17715
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 7
+    Cost: 817210
+    GenerationIncreased: 19486
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 8
+    Cost: 1103233
+    GenerationIncreased: 21434
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 9
+    Cost: 1489364
+    GenerationIncreased: 23577
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 10
+    Cost: 2010641
+    GenerationIncreased: 25934
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 11
+    Cost: 2714365
+    GenerationIncreased: 28527
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 12
+    Cost: 3664392
+    GenerationIncreased: 31379
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 13
+    Cost: 4946929
+    GenerationIncreased: 34516
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 14
+    Cost: 6678354
+    GenerationIncreased: 37967
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 15
+    Cost: 9015777
+    GenerationIncreased: 41763
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 16
+    Cost: 12171298
+    GenerationIncreased: 45939
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 17
+    Cost: 16431252
+    GenerationIncreased: 50532
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 18
+    Cost: 22182190
+    GenerationIncreased: 55585
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 19
+    Cost: 29945956
+    GenerationIncreased: 61143
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 20
+    Cost: 40427040
+    GenerationIncreased: 67257
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 21
+    Cost: 54576504
+    GenerationIncreased: 73982
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 22
+    Cost: 73678280
+    GenerationIncreased: 81380
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 23
+    Cost: 99465678
+    GenerationIncreased: 89518
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 24
+    Cost: 134278665
+    GenerationIncreased: 98469
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 25
+    Cost: 181276197
+    GenerationIncreased: 108315
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 26
+    Cost: 244722865
+    GenerationIncreased: 119146
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 27
+    Cost: 330375867
+    GenerationIncreased: 131060
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 28
+    Cost: 446007420
+    GenerationIncreased: 144166
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 29
+    Cost: 602110017
+    GenerationIncreased: 158582
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 30
+    Cost: 812848522
+    GenerationIncreased: 174440
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 31
+    Cost: 1097345504
+    GenerationIncreased: 191884
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 32
+    Cost: 1481416430
+    GenerationIncreased: 211072
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 33
+    Cost: 1999912180
+    GenerationIncreased: 232179
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 34
+    Cost: 2699881443
+    GenerationIncreased: 255396
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 35
+    Cost: 3644839948
+    GenerationIncreased: 280935
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 36
+    Cost: 4920533929
+    GenerationIncreased: 309028
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 37
+    Cost: 6642720804
+    GenerationIncreased: 339930
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 38
+    Cost: 8967673085
+    GenerationIncreased: 373923
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 39
+    Cost: 12106358664
+    GenerationIncreased: 411315
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 40
+    Cost: 16343584196
+    GenerationIncreased: 452446
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 41
+    Cost: 22063838664
+    GenerationIncreased: 497690
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 42
+    Cost: 29786182196
+    GenerationIncreased: 547459
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 43
+    Cost: 40211345964
+    GenerationIncreased: 602204
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 44
+    Cost: 54285317051
+    GenerationIncreased: 662424
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 45
+    Cost: 73285178018
+    GenerationIncreased: 728666
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 46
+    Cost: 98934990324
+    GenerationIncreased: 801532
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 47
+    Cost: 133562236937
+    GenerationIncreased: 881685
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 48
+    Cost: 180309019864
+    GenerationIncreased: 969853
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 49
+    Cost: 243417176816
+    GenerationIncreased: 1066838
+    SellValue: 0
+    GenerationTime: 1.5
+  - Level: 50
+    Cost: 328613188701
+    GenerationIncreased: 1173521
+    SellValue: 0
+    GenerationTime: 1.5
+  BaseGeneration: 10000
+  generationIncrease: 10
+  generationTimeIncrease: 0
+  costIncrease: 35
+  BaseCost: 100000
+  MaxLevel: 50
